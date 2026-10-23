@@ -1,6 +1,6 @@
 {
     "formato":  1,
-    "publicadoEm":  "2026-10-23T16:15:05-03:00",
+    "publicadoEm":  "2026-10-23T17:23:34-03:00",
     "pacotes":  {
                     "android":  {
                                     "versao":  "1.0.2",
@@ -8,8 +8,8 @@
                                     "urls":  [
                                                  "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.2-2/BalancaInteligente-v1-0-2.apk"
                                              ],
-                                    "sha256":  "a82185a7aa8cbfac82c53585c495fe238dbc56a5fefef33bbcdd9dbe3879b72e",
-                                    "tamanho":  243738582,
+                                    "sha256":  "8f5b1b787112df72fed8e1ada27e6a23a318650e891229e9e4579109c9a9ebe4",
+                                    "tamanho":  242704238,
                                     "notas":  "Primeira versão"
                                 },
                     "windows":  {
@@ -18,8 +18,8 @@
                                     "urls":  [
                                                  "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.2-2/BalancaInteligenteWin-v1-0-2.zip"
                                              ],
-                                    "sha256":  "a5e258d5cf4d7894c147dffadc42d6a5d62003cc0445e3b4d566b26214ea6abb",
-                                    "tamanho":  167680404,
+                                    "sha256":  "0215c8c3bf5a27db0a0115471a86967d7344658af6946aa64414d7f491cd5d7f",
+                                    "tamanho":  167702601,
                                     "notas":  "Primeira versão"
                                 }
                 }
