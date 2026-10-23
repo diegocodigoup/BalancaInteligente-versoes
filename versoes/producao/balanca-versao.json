@@ -1,26 +1,26 @@
 {
     "formato":  1,
-    "publicadoEm":  "2026-10-23T17:23:34-03:00",
+    "publicadoEm":  "2026-10-23T18:42:24-03:00",
     "pacotes":  {
                     "android":  {
-                                    "versao":  "1.0.2",
-                                    "build":  2,
+                                    "versao":  "1.0.3",
+                                    "build":  3,
                                     "urls":  [
-                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.2-2/BalancaInteligente-v1-0-2.apk"
+                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.3-3/BalancaInteligente-v1-0-3.apk"
                                              ],
-                                    "sha256":  "8f5b1b787112df72fed8e1ada27e6a23a318650e891229e9e4579109c9a9ebe4",
-                                    "tamanho":  242704238,
-                                    "notas":  "Primeira versão"
+                                    "sha256":  "fa882fe59228ac71a5751d0f4f64d00fec3dd0399b6364ba05f5a34fb5cc09ed",
+                                    "tamanho":  181162803,
+                                    "notas":  "Tentativa de correção webcam externa"
                                 },
                     "windows":  {
-                                    "versao":  "1.0.2",
-                                    "build":  2,
+                                    "versao":  "1.0.3",
+                                    "build":  3,
                                     "urls":  [
-                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.2-2/BalancaInteligenteWin-v1-0-2.zip"
+                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.3-3/BalancaInteligenteWin-v1-0-3.zip"
                                              ],
-                                    "sha256":  "0215c8c3bf5a27db0a0115471a86967d7344658af6946aa64414d7f491cd5d7f",
-                                    "tamanho":  167702601,
-                                    "notas":  "Primeira versão"
+                                    "sha256":  "16e25b181b8028eeaaa1a2f8e31d742e3e0f9118bb66502eea6c342eee64ca74",
+                                    "tamanho":  167702487,
+                                    "notas":  "Tentativa de correção webcam externa"
                                 }
                 }
 }
