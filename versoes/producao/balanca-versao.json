@@ -1,26 +1,26 @@
 {
     "formato":  1,
-    "publicadoEm":  "2026-10-23T18:42:24-03:00",
+    "publicadoEm":  "2026-10-24T12:35:30-03:00",
     "pacotes":  {
                     "android":  {
-                                    "versao":  "1.0.3",
-                                    "build":  3,
+                                    "versao":  "1.0.4",
+                                    "build":  4,
                                     "urls":  [
-                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.3-3/BalancaInteligente-v1-0-3.apk"
+                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.4-4/BalancaInteligente-v1-0-4.apk"
                                              ],
-                                    "sha256":  "fa882fe59228ac71a5751d0f4f64d00fec3dd0399b6364ba05f5a34fb5cc09ed",
-                                    "tamanho":  181162803,
-                                    "notas":  "Tentativa de correção webcam externa"
+                                    "sha256":  "392733984c28d0d4a8cd87bda308e0aba86c217859d32c25431bd573963329e0",
+                                    "tamanho":  181326775,
+                                    "notas":  "Novidades\n- Nova tela \"Cadastrar produtos\" (funcionário): a câmera identifica o produto e mostra o que o motor está \"pensando\". Dá para confirmar (\"Está certo\"), corrigir (\"Está errado\"), vincular a foto a um produto ou cadastrar um produto novo já com a foto da câmera. Só o funcionário ensina o sistema.\n- Imprimir etiqueta virou autoatendimento: telas mais simples e com letras grandes para o cliente. Quando só um produto é identificado, ele aparece direto e a etiqueta sai sozinha. Quando há produtos parecidos, o cliente toca no dele. O botão \"Não é este produto\" volta para a escolha.\n- Botão \"Outro produto\": abre todos os produtos em tela cheia para o cliente achar o dele. Dá para ajustar o número de colunas e o tamanho da letra.\n- Nova configuração \"Autoatendimento\": liga ou desliga o \"Outro produto\", mostra ou esconde o preço e define quantos produtos parecidos aparecem na escolha (de 2 a 8).\n- Aviso \"ATENÇÃO\" piscando quando a etiqueta já foi impressa e o produto continua na balança.\n- Sem balança configurada, a tela volta sozinha a procurar quando o cliente sai sem imprimir.\n\nMelhorias\n- O fundo vazio passa a ser gravado sempre que a câmera abre. A detecção de produto fica sempre ligada (mínimo de 1%).\n- Balança serial: peso negativo e códigos de estado da balança não são mais lidos como peso.\n- O motor de reconhecimento não trava mais ao iniciar: se não responder em 60 segundos, aparece um aviso de erro.\n- Mensagens da tela de etiqueta passam a aparecer no topo."
                                 },
                     "windows":  {
-                                    "versao":  "1.0.3",
-                                    "build":  3,
+                                    "versao":  "1.0.4",
+                                    "build":  4,
                                     "urls":  [
-                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.3-3/BalancaInteligenteWin-v1-0-3.zip"
+                                                 "https://github.com/diegocodigoup/BalancaInteligente-versoes/releases/download/v1.0.4-4/BalancaInteligenteWin-v1-0-4.zip"
                                              ],
-                                    "sha256":  "16e25b181b8028eeaaa1a2f8e31d742e3e0f9118bb66502eea6c342eee64ca74",
-                                    "tamanho":  167702487,
-                                    "notas":  "Tentativa de correção webcam externa"
+                                    "sha256":  "c7f2f722ab071b6b1479b965df43d8e613a5b47453f9fb6c621992bfeffe9bff",
+                                    "tamanho":  167740049,
+                                    "notas":  "Novidades\n- Nova tela \"Cadastrar produtos\" (funcionário): a câmera identifica o produto e mostra o que o motor está \"pensando\". Dá para confirmar (\"Está certo\"), corrigir (\"Está errado\"), vincular a foto a um produto ou cadastrar um produto novo já com a foto da câmera. Só o funcionário ensina o sistema.\n- Imprimir etiqueta virou autoatendimento: telas mais simples e com letras grandes para o cliente. Quando só um produto é identificado, ele aparece direto e a etiqueta sai sozinha. Quando há produtos parecidos, o cliente toca no dele. O botão \"Não é este produto\" volta para a escolha.\n- Botão \"Outro produto\": abre todos os produtos em tela cheia para o cliente achar o dele. Dá para ajustar o número de colunas e o tamanho da letra.\n- Nova configuração \"Autoatendimento\": liga ou desliga o \"Outro produto\", mostra ou esconde o preço e define quantos produtos parecidos aparecem na escolha (de 2 a 8).\n- Aviso \"ATENÇÃO\" piscando quando a etiqueta já foi impressa e o produto continua na balança.\n- Sem balança configurada, a tela volta sozinha a procurar quando o cliente sai sem imprimir.\n\nMelhorias\n- O fundo vazio passa a ser gravado sempre que a câmera abre. A detecção de produto fica sempre ligada (mínimo de 1%).\n- Balança serial: peso negativo e códigos de estado da balança não são mais lidos como peso.\n- O motor de reconhecimento não trava mais ao iniciar: se não responder em 60 segundos, aparece um aviso de erro.\n- Mensagens da tela de etiqueta passam a aparecer no topo."
                                 }
                 }
 }
